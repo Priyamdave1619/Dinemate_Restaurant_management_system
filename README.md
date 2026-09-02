@@ -1,4 +1,4 @@
-# DineMate — Restaurant Ordering & Management Platform
+# DineMate — Restaurant Ordering & Management Platform Web and App Based
 
 A multi-tenant restaurant platform: one shared backend + database, with a
 separate frontend for every role — platform owner, restaurant owner/manager,
