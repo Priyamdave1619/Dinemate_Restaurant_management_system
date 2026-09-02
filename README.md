@@ -6,6 +6,28 @@ kitchen waiter, and the dining customer. Web portals are Next.js; the
 restaurant and waiter apps also ship as native Flutter apps.
 
 ---
+## ScreenShots
+
+## Restaurant App :
+<img width="540" height="1046" alt="WhatsApp Image 2026-09-02 at 14 26 31" src="https://github.com/user-attachments/assets/b9f785f8-987d-4a15-8bc4-dd5ffb0e222b" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 32 (1)" src="https://github.com/user-attachments/assets/43d97181-7d6c-4bc6-b628-47c6c6df39cc" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 31 (1)" src="https://github.com/user-attachments/assets/82253ed9-dc7f-428d-a442-b829794ac661" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 31 (2)" src="https://github.com/user-attachments/assets/451410bc-bca6-43fb-ae21-fef4d869f6b0" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 32 (2)" src="https://github.com/user-attachments/assets/632dad3e-c039-4364-b4b6-2fddcd930ab5" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 32" src="https://github.com/user-attachments/assets/5d464fb9-7272-48d3-9233-4280834a03fa" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 31 (3)" src="https://github.com/user-attachments/assets/71e56fa0-1438-48d6-961f-22bf579bdc59" />
+
+
+## Waiter App:
+<img width="821" height="1599" alt="WhatsApp Image 2026-09-02 at 14 32 59" src="https://github.com/user-attachments/assets/c2bf14de-b958-4f30-ae81-8fa2a784b6c9" />
+<img width="540" height="1054" alt="WhatsApp Image 2026-09-02 at 14 26 30" src="https://github.com/user-attachments/assets/ee397d63-3057-4b2e-8a7d-f9b034ec0c18" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 30 (3)" src="https://github.com/user-attachments/assets/54234b5f-03bc-4ddc-88d7-dfb5bacfb4f6" />
+<img width="540" height="1052" alt="WhatsApp Image 2026-09-02 at 14 26 30 (2)" src="https://github.com/user-attachments/assets/aa3ca8da-cd99-4f93-9c1d-f7292b1a7947" />
+<img width="537" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 30 (1)" src="https://github.com/user-attachments/assets/7ad02418-10ea-4837-8009-a3094e64dc5f" />
+<img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 29" src="https://github.com/user-attachments/assets/1d0b8fe0-3d8e-4faf-ba19-8ee699920bc8" />
+
+
+---
 
 ## 1. Problem Statement
 
