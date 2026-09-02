@@ -20,7 +20,6 @@ restaurant and waiter apps also ship as native Flutter apps.
 
 ## Waiter App:
 <img width="821" height="1599" alt="WhatsApp Image 2026-09-02 at 14 32 59" src="https://github.com/user-attachments/assets/c2bf14de-b958-4f30-ae81-8fa2a784b6c9" />
-<img width="540" height="1054" alt="WhatsApp Image 2026-09-02 at 14 26 30" src="https://github.com/user-attachments/assets/ee397d63-3057-4b2e-8a7d-f9b034ec0c18" />
 <img width="540" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 30 (3)" src="https://github.com/user-attachments/assets/54234b5f-03bc-4ddc-88d7-dfb5bacfb4f6" />
 <img width="540" height="1052" alt="WhatsApp Image 2026-09-02 at 14 26 30 (2)" src="https://github.com/user-attachments/assets/aa3ca8da-cd99-4f93-9c1d-f7292b1a7947" />
 <img width="537" height="1053" alt="WhatsApp Image 2026-09-02 at 14 26 30 (1)" src="https://github.com/user-attachments/assets/7ad02418-10ea-4837-8009-a3094e64dc5f" />
